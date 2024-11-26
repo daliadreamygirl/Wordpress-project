@@ -1,0 +1,53 @@
+*{
+
+margin:0;
+padding: 0;
+}
+
+.header{
+    background-color: aqua;
+    color: black;
+    height: 100px;
+    text-align: center;
+
+
+}
+.left_content{
+
+width: 50%;
+background-color: blueviolet;
+height: 400px;
+float: left;
+text-align: center;
+
+
+}
+.right_content{
+
+
+    width: 50%;
+    height: 400px;
+    background-color:beige;
+    float: right;
+    text-align: center;
+
+}
+.main_content{
+    background-color: crimson;
+    height: 300px;
+    text-align: center;
+    
+}
+.content{
+
+    overflow: hidden;
+}
+
+.footer{
+
+    background-color: darkolivegreen;
+    height: 100px;
+    text-align: center;
+
+
+}
